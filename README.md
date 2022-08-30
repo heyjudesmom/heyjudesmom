@@ -1,9 +1,3 @@
-# Brianna McCarthy
-
-### Hi there 👋
-
-I am a full-stack developer with a background in teaching. 
-
 ![bio](https://i.imgur.com/lHYQzlw.png)
 <!--
 **heyjudesmom/heyjudesmom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
