@@ -1,4 +1,4 @@
-![bio](https://i.imgur.com/7SMgDnk.png)
+![bio](https://i.imgur.com/56NeCG2.png)
 <!--
 **heyjudesmom/heyjudesmom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
